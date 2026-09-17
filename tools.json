@@ -1,0 +1,14 @@
+[
+  {
+    "name": "screenshot",
+    "method": "POST",
+    "path": "/screenshot",
+    "description": "V1 Screenshot"
+  },
+  {
+    "name": "session_create",
+    "method": "POST",
+    "path": "/session/create",
+    "description": "V1 Session Create"
+  }
+]
