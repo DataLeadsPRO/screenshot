@@ -1,5 +1,5 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.DataLeadsPRO/screenshot",
   "description": "Pixel-perfect webpage screenshots rendered in a real browser, full-page or viewport, via one POST.",
   "version": "1.0.0",
